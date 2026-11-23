@@ -1,23 +1,24 @@
-# Shopping List
+## Shopping List Management
 
-An interactive application for organizing shopping items.
+This application helps users organize
+their shopping items.
 
-## Features
+### Main Functions
 
 - Add shopping items
-- Mark purchased items
-- Save lists locally
+- View saved items
+- Mark purchased products
+- Remove unnecessary items
 
-## How to Use
+### Usage Instructions
 
-Enter an item and mark it after purchasing.
+1. Enter a product name.
+2. Add it to the shopping list.
+3. Mark the item after purchasing.
+4. Remove items when they are no longer needed.
 
-## Technologies
+### Data Management
 
-- HTML
-- CSS
-- JavaScript
-
-## Running Locally
-
-Open `index.html` in a modern web browser.
+If browser local storage is implemented,
+saved shopping items can remain available
+after refreshing the page.
