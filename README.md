@@ -22,3 +22,12 @@ their shopping items.
 If browser local storage is implemented,
 saved shopping items can remain available
 after refreshing the page.
+## Manual Testing Checklist
+
+- [ ] Add an item and confirm that it appears.
+- [ ] Mark an item purchased and review the displayed state.
+- [ ] Remove an item and check whether the list updates.
+
+### Test Notes
+
+Record the observed result and any reproducible issue after running the tests.
